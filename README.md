@@ -1,6 +1,6 @@
 # DataWareSystems
 
 ## Datalake DB
-DB-Name: Group2DbDataLake
-Hauptbenutzername: postgres
+DB-Name: Group2DbDataLake \n
+Hauptbenutzername: postgres \n
 Passwort: lakewarehouse2025?!?
