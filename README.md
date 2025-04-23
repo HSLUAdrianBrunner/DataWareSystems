@@ -1,6 +1,3 @@
 # DataWareSystems
 
-## Datalake DB
-DB-Name: Group2DbDataLake \n
-Hauptbenutzername: postgres \n
-Passwort: lakewarehouse2025?!?
+BITTE KEINE KEY / USERNAMES ETC hier oder im code. .env dafür ist im Onedrive
