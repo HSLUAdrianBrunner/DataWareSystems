@@ -6,16 +6,13 @@
   The repository contains the following files:
   - README.md
   - Code_Documentation.ipynb
-    
-      To improve clarity and maintainability, all code elements—such as AWS Lambda function scripts and SQL queries—are compiled in a well-structured Jupyter Notebook. It serves as a reference for all code-related       components mentioned in the uploaded report on ILIAS.
+      - To improve clarity and maintainability, all code elements—such as AWS Lambda function scripts and SQL queries—are compiled in a well-structured Jupyter Notebook. It serves as a reference for all code-      related       components mentioned in the uploaded report on ILIAS.
 
   Important Note:
-
-    The notebook is intended for documentation purposes only and is not designed to be executed directly. Code snippets were inserted to provide an overview of the implementation and are not guaranteed to be           executable in their current form. The Codes are implemented in AWS, as descriped in the report.
+  -The notebook is intended for documentation purposes only and is not designed to be executed directly. Code snippets were inserted to provide an overview of the implementation and are not guaranteed to be           executable in their current form. The Codes are implemented in AWS, as descriped in the report.
 
   Authors:
-
-    This project was conducted by the following students:
+  -This project was conducted by the following students:
     - Adrian Brunner
     - Joshua Hügli
     - Alois Wagner
