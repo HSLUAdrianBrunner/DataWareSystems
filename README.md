@@ -30,3 +30,15 @@ This project was conducted by the following students:
 - Joshua Hügli
 - Alois Wagner
 
+| Student | Code part                             |
+|---------|----------------------------------------|
+| Adrian & Alois | group2_energy_api              |
+| Alois   | group2_weather_api                    |
+| Adrian  | group2_weather_sun_api                |
+| Joshua  | group2_currency_api                   |
+| Joshua  | group2_historical_data_currency       |
+| Alois   | group2_dwh_fact_energy_production     |
+| Joshua  | group2_dwh_fact_energy_trade          |
+| Adrian  | group2_dwh_fact_weather               |
+| According DWH | all SQL tables                  |
+
