@@ -30,6 +30,3 @@ This project was conducted by the following students:
 - Joshua Hügli
 - Alois Wagner
 
-
-
-BITTE KEINE KEY / USERNAMES ETC hier oder im code. .env dafür ist im Onedrive
